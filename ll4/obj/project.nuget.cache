@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KT04v+yuhhA=",
+  "dgSpecHash": "uac15iRSi6I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lordk\\Source\\Repos\\ll4\\ll4\\Client.csproj",
+  "projectFilePath": "C:\\Users\\lordk\\source\\repos\\DesktopLab3\\ll4\\Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lordk\\.nuget\\packages\\communitytoolkit.mvvm\\8.3.2\\communitytoolkit.mvvm.8.3.2.nupkg.sha512",
     "C:\\Users\\lordk\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",

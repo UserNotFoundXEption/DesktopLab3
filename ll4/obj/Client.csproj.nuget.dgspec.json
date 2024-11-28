@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lordk\\Source\\Repos\\ll4\\ll4\\Client.csproj": {}
+    "C:\\Users\\lordk\\source\\repos\\DesktopLab3\\ll4\\Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lordk\\Source\\Repos\\ll4\\ll4\\Client.csproj": {
+    "C:\\Users\\lordk\\source\\repos\\DesktopLab3\\ll4\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lordk\\Source\\Repos\\ll4\\ll4\\Client.csproj",
+        "projectUniqueName": "C:\\Users\\lordk\\source\\repos\\DesktopLab3\\ll4\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "C:\\Users\\lordk\\Source\\Repos\\ll4\\ll4\\Client.csproj",
+        "projectPath": "C:\\Users\\lordk\\source\\repos\\DesktopLab3\\ll4\\Client.csproj",
         "packagesPath": "C:\\Users\\lordk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lordk\\Source\\Repos\\ll4\\ll4\\obj\\",
+        "outputPath": "C:\\Users\\lordk\\source\\repos\\DesktopLab3\\ll4\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -37,32 +37,32 @@
           "net8.0-android34.0": {
             "targetAlias": "net8.0-android",
             "projectReferences": {
-              "C:\\Users\\lordk\\Source\\Repos\\ll4\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\lordk\\Source\\Repos\\ll4\\Shared\\Shared.csproj"
+              "C:\\Users\\lordk\\source\\repos\\DesktopLab3\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\lordk\\source\\repos\\DesktopLab3\\Shared\\Shared.csproj"
               }
             }
           },
           "net8.0-ios18.0": {
             "targetAlias": "net8.0-ios",
             "projectReferences": {
-              "C:\\Users\\lordk\\Source\\Repos\\ll4\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\lordk\\Source\\Repos\\ll4\\Shared\\Shared.csproj"
+              "C:\\Users\\lordk\\source\\repos\\DesktopLab3\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\lordk\\source\\repos\\DesktopLab3\\Shared\\Shared.csproj"
               }
             }
           },
           "net8.0-maccatalyst18.0": {
             "targetAlias": "net8.0-maccatalyst",
             "projectReferences": {
-              "C:\\Users\\lordk\\Source\\Repos\\ll4\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\lordk\\Source\\Repos\\ll4\\Shared\\Shared.csproj"
+              "C:\\Users\\lordk\\source\\repos\\DesktopLab3\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\lordk\\source\\repos\\DesktopLab3\\Shared\\Shared.csproj"
               }
             }
           },
           "net8.0-windows10.0.19041": {
             "targetAlias": "net8.0-windows10.0.19041.0",
             "projectReferences": {
-              "C:\\Users\\lordk\\Source\\Repos\\ll4\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\lordk\\Source\\Repos\\ll4\\Shared\\Shared.csproj"
+              "C:\\Users\\lordk\\source\\repos\\DesktopLab3\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\lordk\\source\\repos\\DesktopLab3\\Shared\\Shared.csproj"
               }
             }
           }
@@ -293,14 +293,14 @@
         }
       }
     },
-    "C:\\Users\\lordk\\Source\\Repos\\ll4\\Shared\\Shared.csproj": {
+    "C:\\Users\\lordk\\source\\repos\\DesktopLab3\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lordk\\Source\\Repos\\ll4\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\lordk\\source\\repos\\DesktopLab3\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\lordk\\Source\\Repos\\ll4\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\lordk\\source\\repos\\DesktopLab3\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\lordk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lordk\\Source\\Repos\\ll4\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\lordk\\source\\repos\\DesktopLab3\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
